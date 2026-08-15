@@ -967,6 +967,82 @@
                             "actionType": "Codding"
                         }
                     ]
+                },
+                {
+                    "date": "Sat Aug 15 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "d2eb50b0-4e8c-4e68-8e61-d853f49f10cb",
+                                "duration": 249099,
+                                "idle": 1791711,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "89d96616-de97-41c9-890d-d0718b074d3d",
+                                        "state": "Idle",
+                                        "begin": 1786764041739,
+                                        "end": 1786764041739,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "4a074f7d-fa97-423b-94f8-8cc8f1e956d6",
+                                        "state": "Ongoing",
+                                        "begin": 1786763932751,
+                                        "end": 1786764041739,
+                                        "duration": 108988
+                                    },
+                                    {
+                                        "id": "0bd55bbf-93be-48a4-aa0c-0f6d5b0f60e5",
+                                        "state": "Idle",
+                                        "begin": 1786763924076,
+                                        "end": 1786763932751,
+                                        "duration": 8675
+                                    },
+                                    {
+                                        "id": "5eb16d14-ce73-4db1-ad44-d7940b334245",
+                                        "state": "Ongoing",
+                                        "begin": 1786763917509,
+                                        "end": 1786763924075,
+                                        "duration": 6566
+                                    },
+                                    {
+                                        "id": "72311685-4a81-4e43-9474-e7a589f249b2",
+                                        "state": "Idle",
+                                        "begin": 1786763904714,
+                                        "end": 1786763917509,
+                                        "duration": 12795
+                                    },
+                                    {
+                                        "id": "90a69f3f-6bc7-482f-86cf-69572794906e",
+                                        "state": "Ongoing",
+                                        "begin": 1786763839691,
+                                        "end": 1786763904714,
+                                        "duration": 65023
+                                    },
+                                    {
+                                        "id": "d7a0b98e-ae80-4273-8a73-0d7d66fd3b70",
+                                        "state": "Idle",
+                                        "begin": 1786763818574,
+                                        "end": 1786763839691,
+                                        "duration": 21117
+                                    },
+                                    {
+                                        "id": "fa8ce827-c1b8-4d6c-b2b6-893bd8c85889",
+                                        "state": "Ongoing",
+                                        "begin": 1786763750052,
+                                        "end": 1786763818574,
+                                        "duration": 68522
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".html",
+                                    ".vscode-chat-customizations-evaluations-#1-Chat Customizations Evaluations"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
                 }
             ]
         }
